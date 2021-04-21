@@ -13,8 +13,6 @@ mail: yufengzhang[at]hnu.edu.cn
 
 
 ## Recent progress
-Recently, I have just proved two theorems on the properties of KL divergence. 
-
 Yufeng Zhang, Wanwei Liu, Zhenbang Chen, Kenli Li, Ji Wang. On the Properties of Kullback-Leibler Divergence Between Gaussians. [https://arxiv.org/abs/2102.05485](https://arxiv.org/abs/2102.05485)
 
 
