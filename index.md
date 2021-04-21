@@ -13,6 +13,8 @@ mail: yufengzhang[at]hnu.edu.cn
 
 
 ## Recent progress
+Recently, I am studying the statistical divergence in flow-based model. I find that I need several theorems. So I prove them. See manuscript on Arxiv:
+
 Yufeng Zhang, Wanwei Liu, Zhenbang Chen, Kenli Li, Ji Wang. On the Properties of Kullback-Leibler Divergence Between Gaussians. [https://arxiv.org/abs/2102.05485](https://arxiv.org/abs/2102.05485)
 
 
